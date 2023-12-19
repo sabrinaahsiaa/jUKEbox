@@ -6,6 +6,10 @@ This repository contains resources related to a self-playing ukulele project.
 
 # Contents
 
+* `report.pdf` : final report for project
+
+* `camshafts/` : contains each iteration of the camshaft design
+
 * `pi3/` : contains code for Raspberry Pi 3b, used for UI
   * `chordProcessing.c` : algorithm for sorting chords returned by Essentia
   * `uart_v2` : initializes and sends UART messages
@@ -23,5 +27,4 @@ This repository contains resources related to a self-playing ukulele project.
   * `chords` : contains servo positioning information and control for all possible chords
 
 
-# Demo Video
-[Click here](https://www.youtube.com/watch?v=Rjar8DbBoU8)
+## [Demo Video](https://www.youtube.com/watch?v=Rjar8DbBoU8)
