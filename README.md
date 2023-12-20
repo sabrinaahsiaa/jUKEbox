@@ -1,7 +1,14 @@
 # jUKEbox
 
-This repository contains resources related to a self-playing ukulele project.
+This repository contains resources related to the jUKEbox. The jUKEbox is a self-playing ukulele project that consists of two modes: a mode that plays pre-programmed songs and a mode that takes in audio input to convert into playable chords on the ukulele.
+
 [Jordan Maynard](https://github.com/j0rban), [Sabrina Hsia](https://github.com/sabrinaahsiaa) & [Jackie Huang](http://www.jackiehuanghasnogithubaccount.com) </br>
+
+# Development Tools Used
+
+* Keil uVision5 for tm4c123gh6pm microcontroller
+* Glade/GTK for custom GUI on Raspberry Pi 3 Model B
+* TinkerCad for custom 3D printed camshafts
 
 
 # Contents
