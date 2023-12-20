@@ -16,15 +16,15 @@ This repository contains resources related to the jUKEbox. The jUKEbox is a self
 
 * `report.pdf` : final report for project
 
-* `camshafts/` : contains each iteration of the camshaft design
+* `camshafts` : contains each iteration of the camshaft design
 
-* `pi3/` : contains code for Raspberry Pi 3b, used for UI
+* `pi3` : contains code for Raspberry Pi 3b, used for UI
   * `chordProcessing.c` : algorithm for sorting chords returned by Essentia
   * `uart_v2` : initializes and sends UART messages
   * `ui.c` : initializes buttons and creates actions for user interface
   * `ui.glade` : specifies visual properties for user interface buttons
 
-* `tm4c/` : contains code for TM4C123GH6PM, used for servo motor controls
+* `tm4c` : contains code for TM4C123GH6PM, used for servo motor controls
   * `PLL` : sets phase lock loop for system clock
   * `PWM` : initializes and controls pulse width modulation signals
   * `ServoTest` : test code to verify servo operation
