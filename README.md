@@ -35,4 +35,6 @@ This repository contains resources related to the jUKEbox. The jUKEbox is a self
   * `chords` : contains servo positioning information and control for all possible chords
 
 
-## [Demo Video](https://www.youtube.com/watch?v=Rjar8DbBoU8)
+# Demo Video
+
+https://www.youtube.com/watch?v=Rjar8DbBoU8
