@@ -9,6 +9,7 @@ This repository contains resources related to the jUKEbox. The jUKEbox is a self
 * Keil uVision5 for tm4c123gh6pm microcontroller
 * Glade/GTK for custom GUI on Raspberry Pi 3 Model B
 * TinkerCad for custom 3D printed camshafts
+* Essentia for chord extraction algorithm
 
 
 # Contents
